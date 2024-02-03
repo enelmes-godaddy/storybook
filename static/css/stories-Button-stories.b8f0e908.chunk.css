@@ -8,10 +8,8 @@
   line-height: 1;
 }
 .storybook-button--primary {
-  color: black;
-  background-color: yellow;
-  /* color: white; */
-  /* background-color: #1ea7fd; */
+  color: white;
+  background-color: #1ea7fd;
 }
 .storybook-button--secondary {
   color: #333;
@@ -32,4 +30,4 @@
 }
 
 
-/*# sourceMappingURL=stories-Button-stories.a4a274a3.chunk.css.map*/
+/*# sourceMappingURL=stories-Button-stories.b8f0e908.chunk.css.map*/
